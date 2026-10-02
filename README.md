@@ -287,3 +287,11 @@ Attempting to divide or calculate remainder by zero in Python raises an unhandle
        print("Error: Cannot divide by zero.")
    ```
 In this project, both paradigms work synergistically: the mathematical functions explicitly check and raise `ZeroDivisionError("Cannot divide by zero.")`, while the caller catches the exception and displays an informative error message gracefully.
+
+---
+
+## 🔗 Project & Submission Links
+
+- **GitHub Repository**: [https://github.com/RA-1442006/task2-simple-calculator](https://github.com/RA-1442006/task2-simple-calculator)
+- **LinkedIn Post**: [https://lnkd.in/p/ghh9gggu](https://lnkd.in/p/ghh9gggu)
+
